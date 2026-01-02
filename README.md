@@ -7,9 +7,6 @@
   />
 </a>
   
-# 💫 About Me:
-🚀 I'm currently working on: A React Native e-commerce app.<br><br>🤝 I'm looking to collaborate on: React.js/Next.js-based projects or mobile app development.<br><br>💡 I'm looking for help with: Advanced React Native features or performance optimization for e-commerce apps.<br><br>🌱 I'm currently learning: React Native advanced patterns and improving user experience for mobile apps.<br><br>💬 Ask me about: Anything React.js, Next.js, or building scalable solutions!<br><br>⚡ Fun fact: <br>I love how React's component-based architecture makes complex UI so much easier to handle!<br>Let me know if you'd like me to refine this further or customize it for a specific purpose!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anikrouth) 
